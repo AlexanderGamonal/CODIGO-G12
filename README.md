@@ -37,3 +37,15 @@ git status
 git add .
 git add nombre del archivo.extension
 ```
+
+*Para agregar un commit se ejecuta de la siguiente manera:
+
+```bash
+git commit -m "nombre"
+```
+
+*Para ver una linea de tiempo de los commit que hemos realizado:
+
+```bash
+git log
+```
