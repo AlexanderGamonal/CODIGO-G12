@@ -49,3 +49,9 @@ git commit -m "nombre"
 ```bash
 git log
 ```
+
+*Para ver el detalle de un commit especifico:
+
+```bash
+git show id-de-commit
+```
