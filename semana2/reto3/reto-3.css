@@ -82,6 +82,7 @@
     float: left;
     text-align: center;
     display: inline-flex;
+    align-items: center;
   }
 
   
